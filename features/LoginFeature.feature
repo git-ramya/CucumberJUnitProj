@@ -8,4 +8,4 @@ Feature: To test Login functionality
 
     Examples: 
       | name                | pswd      |
-      | ramyag898@gmail.com | ramya230$ |
+      | ramyag898@gmail.com | ......... |
